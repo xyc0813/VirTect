@@ -1,1 +1,1 @@
-# VirTect
+VirTect is used to detect virus integration sites simultaneously from multiple related-sample data. This algorithm is mainly based joint analysis of short reads spanning breakpoints of integration sites from multiple samples. To achieve high specificity and breakpoint accuracy, a local precise sand-wich alignment algorithm is used
